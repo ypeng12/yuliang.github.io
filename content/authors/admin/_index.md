@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 彭宇量
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yuliang Peng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yuliang
+last_name: Peng
 
 # Status emoji
 status:
